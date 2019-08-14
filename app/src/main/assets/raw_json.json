@@ -1,0 +1,161 @@
+{
+  "id": "06d3cd75-0ef7-45dc-ac09-59aefb165230",
+  "publicIdentifier": 12345,
+  "legalProfile": {
+    "givenName": "Strong",
+    "familyName": "Sweet"
+  },
+  "transactionLog": {
+    "items": [{
+      "id": "acc0242c-a28c-42c0-9b81-b27f5df1b897",
+      "status": "CAPTURED",
+      "amount": {
+        "totalAmount": "2,800.87",
+        "currency": "CAD"
+      },
+      "postedTime": 1526744472710,
+      "transactionTime": 1495897437862,
+      "financialSource": {
+        "account": {
+          "id": "8f29d062-f15c-46df-bf42-304218dd5ae1",
+          "name": "duis magna pariatur"
+        },
+        "owner": {
+          "id": "06d3cd75-0ef7-45dc-ac09-59aefb165230",
+          "name": "Strong Sweet"
+        }
+      },
+      "financialDestination": {
+        "account": {
+          "id": "c89bb616-d320-482c-92b8-656bb36e1844",
+          "name": "cillum deserunt sint"
+        },
+        "owner": {
+          "id": "4d1605d3-96e4-4b70-b9ac-1d765e49b146",
+          "name": "Vang Cooke"
+        }
+      }
+    },
+      {
+        "id": "c92fe949-6a7c-42a2-a24c-ce3727395896",
+        "status": "CAPTURED",
+        "amount": {
+          "totalAmount": "3,333.58",
+          "currency": "USD"
+        },
+        "postedTime": 1544342868043,
+        "transactionTime": 1526991610609,
+        "financialSource": {
+          "account": {
+            "id": "d43630b4-6c94-4d62-9c32-0ba8fd73b83d",
+            "name": "amet consectetur magna"
+          },
+          "owner": {
+            "id": "140654f4-0993-4499-8b16-d291d4665370",
+            "name": "Vickie Carroll"
+          }
+        },
+        "financialDestination": {
+          "account": {
+            "id": "248af674-5f0f-4ea3-b6e8-60e52397a315",
+            "name": "voluptate aliqua ea"
+          },
+          "owner": {
+            "id": "06d3cd75-0ef7-45dc-ac09-59aefb165230",
+            "name": "Strong Sweet"
+          }
+        }
+      },
+      {
+        "id": "24438de6-c11b-4964-a041-947b423c3cd8",
+        "status": "AUTHORIZED",
+        "amount": {
+          "totalAmount": "2,312.78",
+          "currency": "USD"
+        },
+        "postedTime": 1553034490947,
+        "transactionTime": 1535808940196,
+        "financialSource": {
+          "account": {
+            "id": "ae96bf0b-7a4b-497e-bed0-d302c5bd5300",
+            "name": "excepteur labore dolore"
+          },
+          "owner": {
+            "id": "06d3cd75-0ef7-45dc-ac09-59aefb165230",
+            "name": "Strong Sweet"
+          }
+        },
+        "financialDestination": {
+          "account": {
+            "id": "42bc95a8-c479-49a2-9b6e-e2f04cd1f022",
+            "name": "sit eu excepteur"
+          },
+          "owner": {
+            "id": "06d3cd75-0ef7-45dc-ac09-59aefb165230",
+            "name": "Strong Sweet"
+          }
+        }
+      },
+      {
+        "id": "cc2d0216-8853-4463-b179-745bd57a804b",
+        "status": "CAPTURED",
+        "amount": {
+          "totalAmount": "2,762.78",
+          "currency": "CAD"
+        },
+        "postedTime": 1559408241677,
+        "transactionTime": 1544688499823,
+        "financialSource": {
+          "account": {
+            "id": "be2fd401-2d5e-4364-94f6-2071838adad1",
+            "name": "sint nisi occaecat"
+          },
+          "owner": {
+            "id": "14434cdf-5512-450b-a5f0-a2216fcb8164",
+            "name": "Woodard Richards"
+          }
+        },
+        "financialDestination": {
+          "account": {
+            "id": "b28bfacf-188c-4ef9-b333-70e88e4ec9fe",
+            "name": "ipsum culpa sunt"
+          },
+          "owner": {
+            "id": "1272b777-9e17-4af4-9f04-ad0cbd9432ba",
+            "name": "Rae Castillo"
+          }
+        }
+      },
+      {
+        "id": "b122176c-f648-489d-aaac-7a9a60d551a2",
+        "status": "REJECTED",
+        "amount": {
+          "totalAmount": "4,343.06",
+          "currency": "CAD"
+        },
+        "postedTime": 1542382471975,
+        "transactionTime": 1523849186944,
+        "financialSource": {
+          "account": {
+            "id": "2446bbab-10e0-4a4e-8593-53402a7b93c5",
+            "name": "aliquip irure aliqua"
+          },
+          "owner": {
+            "id": "06d3cd75-0ef7-45dc-ac09-59aefb165230",
+            "name": "Strong Sweet"
+          }
+        },
+        "financialDestination": {
+          "account": {
+            "id": "e32d31a1-1493-4455-9368-d5bc66e3b415",
+            "name": "sunt aliquip aliquip"
+          },
+          "owner": {
+            "id": "e9548482-d152-4c53-9f94-5dde9d490dc1",
+            "name": "Cervantes Harrison"
+          }
+        }
+      }
+    ]
+  }
+}
